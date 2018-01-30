@@ -1,0 +1,38 @@
+body {
+  background: dodgerblue url('../images/DSC_5841.jpg') center/100% 100% no-repeat fixed;
+}
+
+header {
+  background-color: black;
+  height: 200px;
+  width: 100%;
+
+  figure {
+    float: left;
+    img {
+      height: 100px;
+      width: 100px;
+    }
+  }
+
+  nav {
+    float: left;
+    ul {
+      li {
+        list-style: none;
+        display: inline-block;
+      }
+    }
+  }
+
+  div {
+    float: right;
+    #btn-acesso {
+
+    }
+  }
+}
+
+main {
+  clear: both;
+}
